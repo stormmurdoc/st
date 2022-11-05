@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Droid Sans Mono Dotted for Powerline:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Droid Sans Mono for Powerline:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "Droid Sans Mono Dotted for Powerline:pixelsize=18:antialias=true:autohint=true", // default
+    "Droid Sans Mono for Powerline:pixelsize=18:antialias=true:autohint=true", // default
     "Ubuntu Mono derivative Powerline:pixelsize=18:antialias=true:autohint=true", // just a test
     "Hack Nerd Font:pixelsize=18:antialias=true:autohint=true", // Powerline
     "IPAGothic:pixelsize=18:antialias=true:autohint=true", // Japanese
