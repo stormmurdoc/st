@@ -5,15 +5,17 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-//static char *font = "Droid Sans Mono for Powerline:pixelsize=18:antialias=true:autohint=true";
-static char *font = "Droid Sans Mono Slashed for Powerline:pixelsize=32:antialias=true:autohint=true";
+//static char *font = "Droid Sans Mono for Powerline:size=18:antialias=true:autohint=true";
+// static char *font = "Droid Sans Mono Slashed for Powerline:size=32:antialias=true:autohint=true";
+static char *font = "JetBrains Mono Nerd Font:size=13:style=Regular:antialias=true:autohint=true";
+
 /* Spare fonts */
 static char *font2[] = {
-    "Droid Sans Mono Slashed for Powerline:pixelsize=32:antialias=true:autohint=true",
-    "Ubuntu Mono derivative Powerline:pixelsize=18:antialias=true:autohint=true", // just a test
-    "Hack Nerd Font:pixelsize=18:antialias=true:autohint=true", // Powerline
-    "IPAGothic:pixelsize=18:antialias=true:autohint=true", // Japanese
-    "Symbola:pixelsize=18:antialias=true:autohint=true" // Unicode
+    "Droid Sans Mono Slashed for Powerline:size=13:antialias=true:autohint=true",
+    "Ubuntu Mono derivative Powerline:size=13:antialias=true:autohint=true", // just a test
+    "Hack Nerd Font:size=13:antialias=true:autohint=true", // Powerline
+    "IPAGothic:size=13:antialias=true:autohint=true", // Japanese
+    "Symbola:size=13:antialias=true:autohint=true" // Unicode
 };
 static int borderpx = 2;
 /*
