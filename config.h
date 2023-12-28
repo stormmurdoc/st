@@ -7,7 +7,7 @@
  */
 //static char *font = "Droid Sans Mono for Powerline:size=18:antialias=true:autohint=true";
 // static char *font = "Droid Sans Mono Slashed for Powerline:size=32:antialias=true:autohint=true";
-static char *font = "JetBrains Mono Nerd Font:size=13:style=Regular:antialias=true:autohint=true";
+static char *font = "Droid Sans Mono Slashed for Powerline:size=13:style=Retina:antialias=true:autohint=true";
 
 /* Spare fonts */
 static char *font2[] = {
